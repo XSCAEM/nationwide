@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/nationwide/language-masters/en:/",
-    "/content/nationwide/language-masters/en/:/en/",
-    "/content/nationwide/language-masters/fr/:/fr/",
-    "/content/nationwide/language-masters/fr:/fr",
-    "/content/nationwide/language-masters/es/:/es/",
-    "/content/nationwide/language-masters/es:/es",
-    "/content/nationwide/language-masters/ja/:/ja/",
-    "/content/nationwide/language-masters/ja:/ja",
-    "/content/nationwide/language-masters/de/:/de/",
-    "/content/nationwide/language-masters/de:/de",
-    "/content/nationwide/configuration:/.helix/config.json",
-    "/content/nationwide/metadata:/metadata.json",
-    "/content/nationwide/redirects:/redirects.json",
-    "/content/nationwide/placeholders:/placeholders.json"
+    "/content/retirement-plans/language-masters/en:/",
+    "/content/retirement-plans/language-masters/en/:/en/",
+    "/content/retirement-plans/language-masters/fr/:/fr/",
+    "/content/retirement-plans/language-masters/fr:/fr",
+    "/content/retirement-plans/language-masters/es/:/es/",
+    "/content/retirement-plans/language-masters/es:/es",
+    "/content/retirement-plans/language-masters/ja/:/ja/",
+    "/content/retirement-plans/language-masters/ja:/ja",
+    "/content/retirement-plans/language-masters/de/:/de/",
+    "/content/retirement-plans/language-masters/de:/de",
+    "/content/retirement-plans/configuration:/.helix/config.json",
+    "/content/retirement-plans/metadata:/metadata.json",
+    "/content/retirement-plans/redirects:/redirects.json",
+    "/content/retirement-plans/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/nationwide/",
-    "/content/dam/nationwide/"
+    "/content/retirement-plans/",
+    "/content/dam/retirement-plans/"
   ]
 }
